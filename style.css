@@ -32,6 +32,11 @@ body {
     border-radius: 8px;
 }
 
+.hello{
+    color: blue;
+    font-style: italic;
+}
+
 footer{
     margin-top: 40px;
     font-size: 13px;
