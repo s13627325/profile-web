@@ -9,6 +9,7 @@ body {
     height: 100px;
     margin: auto;
     margin-top: 40px;
+    border-radius: 9999px;
 }
 
 .name{
