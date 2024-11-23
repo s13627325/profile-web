@@ -31,10 +31,11 @@ body {
     text-decoration: none;
     padding: 12px;
     border-radius: 8px;
+    font-family: serif;
 }
 
 .hello{
-    color: blue;
+    color:cyan;
     font-style: italic;
 }
 
